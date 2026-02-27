@@ -1,0 +1,7 @@
+*.unity merge=unityyamlmerge eof=lf
+*.prefab merge=unityyamlmerge eof=lf
+*.asset merge=unityyamlmerge eof=lf
+*.meta merge=unityyamlmerge eof=lf
+
+*text=auto
+*.cs text eol=lf
